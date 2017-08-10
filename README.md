@@ -5,7 +5,7 @@
 
 Generally Available
 
-* [Geocoding](https://www.geodir.co/geocoder/#geocoding)
+* [Geocoding](http://www.geodir.co)
   * Forward (place names ⇢  longitude, latitude)
   
 ## Installation
