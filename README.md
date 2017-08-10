@@ -5,14 +5,13 @@
 
 Generally Available
 
-* [Geocoding](https://www.mapbox.com/api-documentation/#geocoding)
+* [Geocoding](https://www.geodir.co/geocoder/#geocoding)
   * Forward (place names ⇢  longitude, latitude)
-  * Reverse (longitude, latitude ⇢ place names)
   
 ## Installation
 
 ```sh
-$ npm install --save mapbox
+$ npm install --save geodir-geocoder
 ```
 
 ## Usage
