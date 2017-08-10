@@ -1,0 +1,27 @@
+{
+  "name": "geocoder",
+  "version": "1.0.0",
+  "description": "Geodir-Geocoder",
+  "main": "GeodirGeocoder.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmendozaricaldi/Geocoder.git"
+  },
+  "keywords": [
+    "geocoder",
+    "geodir"
+  ],
+  "author": "Danilo Nicolas Mendoza Ricaldi <nmendozaricaldi@gmail.com> (https://nmendozaricaldi.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nmendozaricaldi/Geocoder/issues"
+  },
+  "homepage": "https://github.com/nmendozaricaldi/Geocoder#readme",
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
